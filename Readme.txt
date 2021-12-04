@@ -1,4 +1,4 @@
-This project is about resume in the form of webpage. To access the webpage click on the index.html page. It will open page in localhost in browser. 
+This project is about my Portfolio website. To open the website click on the index.html or copy the link and paste it in your browser.
 
 Tools : 
 VSCode, Live Server VSCode Extension 
@@ -10,7 +10,7 @@ Files:
 1. index.html : Webpage file
 2. main.scss : to give styles to webpage
 
-Link for portfolio:
+Live Link for portfolio website:
 https://shreyash2102.github.io/portfolio/
 
 
