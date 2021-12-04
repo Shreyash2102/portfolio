@@ -11,6 +11,6 @@ Files:
 2. main.scss : to give styles to webpage
 
 Link for portfolio:
-https://shreyash2102.github.io/shreyash_212cs029_assignment3/
+https://shreyash2102.github.io/portfolio/
 
 
